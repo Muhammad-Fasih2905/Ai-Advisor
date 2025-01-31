@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753808163924",
+    "project_id": "ai-advisor-af5c6",
+    "storage_bucket": "ai-advisor-af5c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753808163924:android:af2e51ec82b82c4b87d9c1",
+        "android_client_info": {
+          "package_name": "com.aiadvisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IjiP1lcIgI23P_Rotu6G1aLo7AbAQqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

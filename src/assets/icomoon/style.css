@@ -1,0 +1,1151 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?szbx11');
+  src:  url('fonts/icomoon.eot?szbx11#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?szbx11') format('truetype'),
+    url('fonts/icomoon.woff?szbx11') format('woff'),
+    url('fonts/icomoon.svg?szbx11#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Layer-17:before {
+  content: "\e9ea";
+  color: #fff;
+}
+.icon-s:before {
+  content: "\e9eb";
+  color: #fff;
+}
+.icon-s-1:before {
+  content: "\e9ec";
+  color: #fff;
+}
+.icon-Group-1171275180:before {
+  content: "\e9ed";
+  color: #fff;
+}
+.icon-Group:before {
+  content: "\e9e5";
+  color: #fff;
+}
+.icon-settings-3-1:before {
+  content: "\e9e6";
+  color: #fff;
+}
+.icon-s1:before {
+  content: "\e9e7";
+  color: #fff;
+}
+.icon-Layer-171:before {
+  content: "\e9e8";
+  color: #fff;
+}
+.icon-Frame-29977:before {
+  content: "\e9e9";
+}
+.icon-chatbot .path1:before {
+  content: "\e900";
+  color: rgb(38, 50, 56);
+}
+.icon-chatbot .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-chatbot .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(55, 71, 79);
+}
+.icon-chatbot .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(207, 216, 220);
+}
+.icon-chatbot .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(55, 71, 79);
+}
+.icon-chatbot .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(55, 71, 79);
+}
+.icon-chatbot .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(3, 169, 244);
+}
+.icon-chatbot .path8:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(3, 169, 244);
+}
+.icon-chatbot .path9:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-chatbot .path10:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(3, 169, 244);
+}
+.icon-chevron_left:before {
+  content: "\e90a";
+}
+.icon-coin-3 .path1:before {
+  content: "\e90b";
+  color: rgb(0, 0, 0);
+}
+.icon-coin-3 .path2:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path3:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path4:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path5:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path6:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path7:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path8:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path9:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path10:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path11:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path12:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path13:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path14:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path15:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path16:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path17:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path18:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path19:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path20:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path21:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path22:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path23:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path24:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path25:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path26:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path27:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path28:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path29:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path30:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-coin-3 .path31:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-edit:before {
+  content: "\e92a";
+  color: #fff;
+}
+.icon-Ellipse-7175:before {
+  content: "\e92b";
+}
+.icon-Ellipse-7219 .path1:before {
+  content: "\e92c";
+  color: rgb(217, 217, 217);
+}
+.icon-Ellipse-7219 .path2:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-forgotpassword .path1:before {
+  content: "\e92e";
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path2:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path3:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path4:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path5:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path6:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path7:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path8:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path9:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(235, 235, 235);
+}
+.icon-forgotpassword .path10:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path11:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(240, 240, 240);
+}
+.icon-forgotpassword .path12:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-forgotpassword .path13:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path14:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(240, 240, 240);
+}
+.icon-forgotpassword .path15:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(240, 240, 240);
+}
+.icon-forgotpassword .path16:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path17:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(240, 240, 240);
+}
+.icon-forgotpassword .path18:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path19:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(240, 240, 240);
+}
+.icon-forgotpassword .path20:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path21:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(240, 240, 240);
+}
+.icon-forgotpassword .path22:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path23:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(224, 224, 224);
+}
+.icon-forgotpassword .path24:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+.icon-forgotpassword .path25:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-forgotpassword .path26:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+.icon-forgotpassword .path27:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+.icon-forgotpassword .path28:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path29:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.icon-forgotpassword .path30:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path31:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.icon-forgotpassword .path32:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path33:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path34:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(250, 250, 250);
+}
+.icon-forgotpassword .path35:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path36:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path37:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path38:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path39:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path40:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path41:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path42:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(230, 230, 230);
+}
+.icon-forgotpassword .path43:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+.icon-forgotpassword .path44:before {
+  content: "\e959";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path45:before {
+  content: "\e95a";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path46:before {
+  content: "\e95b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.3;
+}
+.icon-forgotpassword .path47:before {
+  content: "\e95c";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path48:before {
+  content: "\e95d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-forgotpassword .path49:before {
+  content: "\e95e";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+  opacity: 0.6;
+}
+.icon-forgotpassword .path50:before {
+  content: "\e95f";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+  opacity: 0.6;
+}
+.icon-forgotpassword .path51:before {
+  content: "\e960";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-forgotpassword .path52:before {
+  content: "\e961";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-forgotpassword .path53:before {
+  content: "\e962";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path54:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path55:before {
+  content: "\e964";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path56:before {
+  content: "\e965";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path57:before {
+  content: "\e966";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path58:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path59:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path60:before {
+  content: "\e969";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path61:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path62:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path63:before {
+  content: "\e96c";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path64:before {
+  content: "\e96d";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path65:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(255, 86, 82);
+}
+.icon-forgotpassword .path66:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path67:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path68:before {
+  content: "\e971";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-forgotpassword .path69:before {
+  content: "\e972";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path70:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path71:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path72:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path73:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path74:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path75:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path76:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path77:before {
+  content: "\e97a";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path78:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path79:before {
+  content: "\e97c";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path80:before {
+  content: "\e97d";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path81:before {
+  content: "\e97e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-forgotpassword .path82:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path83:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-forgotpassword .path84:before {
+  content: "\e981";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path85:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-forgotpassword .path86:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-forgotpassword .path87:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-forgotpassword .path88:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.2;
+}
+.icon-forgotpassword .path89:before {
+  content: "\e986";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path90:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path91:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path92:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path93:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(255, 139, 123);
+}
+.icon-forgotpassword .path94:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path95:before {
+  content: "\e98c";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path96:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.3;
+}
+.icon-forgotpassword .path97:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path98:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(38, 50, 56);
+}
+.icon-forgotpassword .path99:before {
+  content: "\e990";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path100:before {
+  content: "\e991";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.4;
+}
+.icon-forgotpassword .path101:before {
+  content: "\e992";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-forgotpassword .path102:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-forgotpassword .path103:before {
+  content: "\e994";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+  opacity: 0.6;
+}
+.icon-forgotpassword .path104:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+  opacity: 0.3;
+}
+.icon-user:before {
+  content: "\e996";
+}
+.icon-Frame-1171275783:before {
+  content: "\e997";
+}
+.icon-Frame-1171275785:before {
+  content: "\e998";
+}
+.icon-lock:before {
+  content: "\e999";
+}
+.icon-Frame-1171275790:before {
+  content: "\e99a";
+}
+.icon-Frame-1171275791:before {
+  content: "\e99b";
+}
+.icon-Group-1171275047:before {
+  content: "\e99c";
+}
+.icon-delete .path1:before {
+  content: "\e99d";
+  color: rgb(255, 44, 32);
+}
+.icon-delete .path2:before {
+  content: "\e99e";
+  margin-left: -0.94140625em;
+  color: rgb(255, 255, 255);
+}
+.icon-delete .path3:before {
+  content: "\e99f";
+  margin-left: -0.94140625em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275175 .path1:before {
+  content: "\e9a0";
+  color: rgb(242, 95, 103);
+}
+.icon-Group-1171275175 .path2:before {
+  content: "\e9a1";
+  margin-left: -1em;
+  color: rgb(8, 155, 171);
+}
+.icon-Group-1171275175 .path3:before {
+  content: "\e9a2";
+  margin-left: -1em;
+  color: rgb(255, 191, 62);
+}
+.icon-Group-1171275175 .path4:before {
+  content: "\e9a3";
+  margin-left: -1em;
+  color: rgb(1, 197, 219);
+}
+.icon-Group-1171275175 .path5:before {
+  content: "\e9a4";
+  margin-left: -1em;
+  color: rgb(99, 71, 235);
+}
+.icon-Group-1171275175 .path6:before {
+  content: "\e9a5";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275178 .path1:before {
+  content: "\e9a6";
+  color: rgb(252, 220, 217);
+}
+.icon-Group-1171275178 .path2:before {
+  content: "\e9a7";
+  margin-left: -1em;
+  color: rgb(211, 47, 47);
+}
+.icon-Group-1171275178 .path3:before {
+  content: "\e9a8";
+  margin-left: -1em;
+  color: rgb(211, 47, 47);
+}
+.icon-Group-1171275178 .path4:before {
+  content: "\e9a9";
+  margin-left: -1em;
+  color: rgb(244, 67, 54);
+}
+.icon-Group-11712751801:before {
+  content: "\e9aa";
+  color: #fff;
+}
+.icon-setting:before {
+  content: "\e9ab";
+  color: #fff;
+}
+.icon-user2:before {
+  content: "\e9ac";
+  color: #fff;
+}
+.icon-Group-1171275197 .path1:before {
+  content: "\e9ad";
+  color: rgb(244, 67, 54);
+}
+.icon-Group-1171275197 .path2:before {
+  content: "\e9ae";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1171275198 .path1:before {
+  content: "\e9af";
+  color: rgb(0, 0, 0);
+}
+.icon-Group-1171275198 .path2:before {
+  content: "\e9b0";
+  margin-left: -0.9501953125em;
+  color: rgb(0, 0, 0);
+}
+.icon-Group-1171275198 .path3:before {
+  content: "\e9b1";
+  margin-left: -0.9501953125em;
+  color: rgb(227, 66, 52);
+}
+.icon-fire .path1:before {
+  content: "\e9b2";
+  color: rgb(255, 210, 80);
+}
+.icon-fire .path2:before {
+  content: "\e9b3";
+  margin-left: -1em;
+  color: rgb(255, 196, 51);
+}
+.icon-fire .path3:before {
+  content: "\e9b4";
+  margin-left: -1em;
+  color: rgb(255, 210, 80);
+}
+.icon-fire .path4:before {
+  content: "\e9b5";
+  margin-left: -1em;
+  color: rgb(255, 196, 51);
+}
+.icon-fire .path5:before {
+  content: "\e9b6";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-fire .path6:before {
+  content: "\e9b7";
+  margin-left: -1em;
+  color: rgb(255, 135, 0);
+}
+.icon-fire .path7:before {
+  content: "\e9b8";
+  margin-left: -1em;
+  color: rgb(255, 210, 80);
+}
+.icon-fire .path8:before {
+  content: "\e9b9";
+  margin-left: -1em;
+  color: rgb(255, 196, 51);
+}
+.icon-fire .path9:before {
+  content: "\e9ba";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-fire .path10:before {
+  content: "\e9bb";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-fire .path11:before {
+  content: "\e9bc";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-fire .path12:before {
+  content: "\e9bd";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-fire .path13:before {
+  content: "\e9be";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-fire .path14:before {
+  content: "\e9bf";
+  margin-left: -1em;
+  color: rgb(255, 152, 42);
+}
+.icon-search:before {
+  content: "\e9c0";
+  color: #fff;
+}
+.icon-Group-1171275201:before {
+  content: "\e9c1";
+}
+.icon-Group-1171275202:before {
+  content: "\e9c2";
+}
+.icon-bit .path1:before {
+  content: "\e9c3";
+  color: rgb(247, 147, 26);
+}
+.icon-bit .path2:before {
+  content: "\e9c4";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-Group-1:before {
+  content: "\e9c5";
+  color: #08c;
+}
+.icon-Group-2:before {
+  content: "\e9c6";
+  color: #fff;
+}
+.icon-image_2024_08_15T12_28_59_390Z-2:before {
+  content: "\e9c7";
+}
+.icon-Layer-2 .path1:before {
+  content: "\e9c8";
+  color: rgb(194, 166, 51);
+}
+.icon-Layer-2 .path2:before {
+  content: "\e9c9";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.24;
+}
+.icon-Layer-2 .path3:before {
+  content: "\e9ca";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.3;
+}
+.icon-Layer-2 .path4:before {
+  content: "\e9cb";
+  margin-left: -1em;
+  color: rgb(194, 166, 51);
+}
+.icon-Layer-2 .path5:before {
+  content: "\e9cc";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-post:before {
+  content: "\e9cd";
+}
+.icon-post-1:before {
+  content: "\e9ce";
+}
+.icon-post-2:before {
+  content: "\e9cf";
+}
+.icon-post-3:before {
+  content: "\e9d0";
+}
+.icon-Rectangle-42027:before {
+  content: "\e9d1";
+}
+.icon-Rectangle-42028:before {
+  content: "\e9d2";
+}
+.icon-Rectangle-42029:before {
+  content: "\e9d3";
+}
+.icon-Rectangle-42030:before {
+  content: "\e9d4";
+}
+.icon-Rectangle-42031:before {
+  content: "\e9d5";
+}
+.icon-Rectangle-42032:before {
+  content: "\e9d6";
+}
+.icon-Rectangle-42033:before {
+  content: "\e9d7";
+}
+.icon-Rectangle-42034:before {
+  content: "\e9d8";
+}
+.icon-home:before {
+  content: "\e9d9";
+  color: #fff;
+}
+.icon-arrow:before {
+  content: "\e9da";
+  color: #fff;
+}
+.icon-settings:before {
+  content: "\e9db";
+  color: #fff;
+}
+.icon-solana .path1:before {
+  content: "\e9dc";
+  color: rgb(0, 1, 1);
+}
+.icon-solana .path2:before {
+  content: "\e9dd";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.24;
+}
+.icon-solana .path3:before {
+  content: "\e9de";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.3;
+}
+.icon-solana .path4:before {
+  content: "\e9df";
+  margin-left: -1em;
+  color: rgb(0, 1, 1);
+}
+.icon-solana .path5:before {
+  content: "\e9e0";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-solana .path6:before {
+  content: "\e9e1";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-solana .path7:before {
+  content: "\e9e2";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-apple:before {
+  content: "\e9e3";
+}
+.icon-Vector-1:before {
+  content: "\e9e4";
+  color: #fff;
+}
